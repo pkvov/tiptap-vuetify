@@ -37,6 +37,8 @@
 
 export { default as Heading } from '~/extensions/nativeExtensions/Heading'
 export { default as Bold } from '~/extensions/nativeExtensions/Bold'
+export { default as ReadAbleExtension } from '~/extensions/nativeExtensions/ReadAbleExtension'
+export { default as HighLightMark } from '~/extensions/nativeExtensions/highlight/HighLightMark.ts'
 export { default as Italic } from '~/extensions/nativeExtensions/Italic'
 export { default as Strike } from '~/extensions/nativeExtensions/Strike'
 export { default as Underline } from '~/extensions/nativeExtensions/Underline'

@@ -14,6 +14,13 @@ export default {
         }
       }
     },
+    HighLight: {
+      buttons: {
+        bold: {
+          tooltip: '划线'
+        }
+      }
+    },
     BulletList: {
       buttons: {
         bulletList: {
