@@ -88,12 +88,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iliyaZelenko/tiptap-vuetify.git"
+    "url": "git+https://github.com/pkvov/tiptap-vuetify.git"
   },
   "bugs": {
-    "url": "https://github.com/iliyaZelenko/tiptap-vuetify/issues"
+    "url": "https://github.com/pkvov/tiptap-vuetify/issues"
   },
-  "homepage": "https://github.com/iliyaZelenko/tiptap-vuetify#readme",
+  "homepage": "https://github.com/pkvov/tiptap-vuetify#readme",
   "description": "Vuetify WYSIWYG editor based on Tiptap.",
   "author": "Ilya Zelenko",
   "main": "dist/bundle-umd.js",
